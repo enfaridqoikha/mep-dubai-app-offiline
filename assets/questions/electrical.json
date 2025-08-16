@@ -1,0 +1,60 @@
+[
+  {
+    "id": "elec_rccb_1",
+    "text": "Which device trips on residual (leakage) current to enhance occupant safety?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "MCB",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "RCCB/RCBO",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Main Isolator",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "SPD",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Electrical \u2014 Protection",
+    "ref": "LV protection practices, coordinate with DEWA standards",
+    "explanation": "RCCB/RCBO trips on residual current; MCB trips on overcurrent."
+  },
+  {
+    "id": "earthing_basic_1",
+    "text": "In TN-S systems common in Dubai, the protective conductor is:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Combined with neutral in the same conductor",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Separate from neutral throughout the installation",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Only required at main incoming",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Not required in wet areas",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Electrical \u2014 Earthing",
+    "ref": "Common LV earthing arrangements; DEWA practice",
+    "explanation": "TN-S keeps PE separate from N; TN-C-S combines upstream then separates."
+  }
+]

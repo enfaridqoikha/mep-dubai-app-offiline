@@ -1,0 +1,31 @@
+[
+  {
+    "id": "plumb_trap_1",
+    "text": "What is the primary function of a plumbing trap below a fixture?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Speed up drainage",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Block sewer gases from entering occupied spaces",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Filter solids",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Reduce water pressure",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Plumbing \u2014 Sanitary",
+    "ref": "Hygiene and public health objectives",
+    "explanation": "The water seal prevents sewer gas ingress into rooms."
+  }
+]
