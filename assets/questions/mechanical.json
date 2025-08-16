@@ -1,0 +1,31 @@
+[
+  {
+    "id": "hvac_freshair_1",
+    "text": "The primary purpose of providing minimum outdoor (fresh) air in HVAC systems is to:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Increase cooling load",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Dilute indoor contaminants and CO\u2082",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Improve equipment lifespan",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Reduce humidity only",
+        "isCorrect": false
+      }
+    ],
+    "topic": "Mechanical \u2014 Ventilation",
+    "ref": "DBC coordination with ventilation/IAQ requirements",
+    "explanation": "Outdoor air controls indoor contaminant levels and CO\u2082."
+  }
+]
